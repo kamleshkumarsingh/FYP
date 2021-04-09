@@ -1,0 +1,64 @@
+1. Userlogin
+	Email
+	Password
+	
+	Login Button
+
+3. ClassSetup
+	ClassCode
+ 	ClassDesc 
+
+2. StudentAdmission
+	Class 
+	Section A-E
+
+3. StaffRegistration
+	JoinDate
+	FullName
+	MobileNo
+	Email	
+	Address
+	Gender
+	Faculty
+	
+	
+4. FeeRateSetup
+	Class 
+	Fee Column (Admission Fee, Tution Fee
+	Rate
+	
+5. BillClaim
+
+6. Bill Payment
+
+
+Inception 
+1 Scheduling Resources
+2 Cost and time Estimation
+3 Planning
+4 Risk managemant 
+5 Prototype Development
+
+Elaboration
+Analysis of problem Domain
+Use case diagram Development 
+System Archtecture development 
+
+
+Constuction 
+System Build 
+System Operation manual 
+User Manual 
+Test Cases 
+
+Transition 
+Training 
+Beta Testing 
+Analysis of User's Review
+Product maintance 
+
+
+
+http://institutemanagementsoft.blogspot.com/p/mile-stone.html
+
+
